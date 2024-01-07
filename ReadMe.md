@@ -68,3 +68,5 @@ This script retrieves information about all fruits stored in the `FruitCategorie
 If you would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Contributions are welcome!
 
 ## License
+
+This project is licensed under the MIT License.
